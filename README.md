@@ -46,11 +46,11 @@ ________________________
 _______
 # Задание *
 
-1) Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request - 
+1) Отправить http запрос на [сервер](http://162.55.220.72:5005/terminal-hw-request) - 
 
-                                                 curl "http://162.55.220.72:5005/terminal-hw-request"
+      curl "http://162.55.220.72:5005/terminal-hw-request"
 
-                                                 $ curl "http://162.55.220.72:5005/get_method?"name"="Kris"&"age"=29"
+    $ curl "http://162.55.220.72:5005/get_method?"name"="Kris"&"age"=29"
  
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 - 
 
